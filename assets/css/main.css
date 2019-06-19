@@ -598,7 +598,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
   .logo {
     height: 70px;
     width: 70px;
-    background: url(../img/GOC1.png) center center;
+    background: url(../../4.jpg) center center;
     background-size: 70px 47px;
     background-repeat: no-repeat;
     position: fixed;
@@ -617,7 +617,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     z-index: 998;
     right: 20px;
     bottom: 20px;
-    background: url(../img/silhouette125.svg) no-repeat center;
+    background: url(../../4.jpg) no-repeat center;
     background-size: 15px;
     background-color: #303e49;
     border-radius: 30px; } }
